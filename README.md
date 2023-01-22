@@ -8,3 +8,4 @@ Radix-Ui
 dayjs
 phosphor
 clsx
+axios
